@@ -6,3 +6,6 @@ Problema 2: Agente Explorador de Mapas (Con Estado Interno) Este programa simula
 
 
 Problema 3: Agente de Navegación Autónoma (Basado en Metas) Este programa implementa un agente que busca la ruta más corta en un laberinto utilizando el algoritmo de búsqueda A* (A-star). El agente comienza en una posición inicial y se dirige hacia un objetivo, evitando las paredes del laberinto (que están representadas por el valor 1). Utiliza una cola de prioridad para explorar las rutas más cortas hacia el objetivo. Una vez que se encuentra el objetivo, se devuelve la secuencia de posiciones que conducen a él.
+
+
+Probema 4: Este código simula el proceso de un agente que busca la mejor ruta en una cuadrícula, moviéndose siempre hacia la celda que le da mayor "utilidad" o recompensa. Imagina que tienes un mapa con diferentes valores en cada celda, y el objetivo es que el agente recorra ese mapa de manera que acumule la mayor cantidad de valor posible a medida que se mueve de una celda a otra.
