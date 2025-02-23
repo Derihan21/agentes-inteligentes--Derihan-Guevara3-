@@ -1,2 +1,3 @@
 # agentes-inteligentes--Derihan-Guevara3-
 En este repositorio se encontrará la tarea número 3 
+Problema 1: Reflejo Simple (Simple Reflection) El presente software simula el tipo de agente de patrullaje que puede desplazarse a lo largo de un camino asignado, a dicho agente se le llama patroll. Mientras el agente está en el sendero, puede proceder a su siguiente destino. Hay una posibilidad aleatoria de que se materialice un obstáculo. Siempre que se materialice un obstáculo, el agente salta a un punto aleatorio en el camino. Si no hay obstáculo, entonces el agente da un paso más. El proceso se itera y se trabaja tras varias repeticiones.
